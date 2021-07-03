@@ -41,14 +41,14 @@ Thus, causing an assymetrical distribution.
 
 - For the second study where we compared **Outcomes Based On Goals** we can very clearly state that the highest level of  succes was retained for the plays which had a goal of the range between $1000 to $5000.
 
-4. What are some limitations of this dataset?
+3. What are some limitations of this dataset?
 
 - Now we will look at a list of limitations and  what we had to alter on the original data set:
   - Unix Timestamp format has to be converted to made readable to the people in question.
   - Both Category and Subcategory were listed under same column which required to be seperated.
   - Some values in data set will affect mean , skewing the data to the right.
   
-5. What are some other possible tables and/or graphs that we could create?
+4. What are some other possible tables and/or graphs that we could create?
 - We could have done a few things differently :
   - We could have made other studies where we could have compared the outcomes to the years which would have given us a yearly trend as well.
   - We could have different diagram respresentation as histogram or pie chart
